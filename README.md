@@ -5,7 +5,7 @@
 - 🌱 Studying analysis systems development / information security
 - 🤔 C# / Python
 - 📫 wf-mietti@live.com
-- 😊 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/W1ll14m92">
