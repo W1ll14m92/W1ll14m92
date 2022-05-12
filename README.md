@@ -4,8 +4,7 @@
 - 🔭 IT Analyst
 - 🌱 Studying analysis systems development / information security
 - 🤔 C# / Python
-- 📫 wf-mietti@live.com
-
+- 📫 devwilliam.mietti@gmail.com
 
 <div align="center">
   <a href="https://github.com/W1ll14m92">
