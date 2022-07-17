@@ -2,7 +2,7 @@
 
 
 - 🔭 IT Analyst
-- 🌱 Studying analysis systems development / information security
+- 🌱 Software Engineering Student / information security
 - 🤔 JavaScript / HTML / CSS
 - 📫 devwilliam.mietti@gmail.com
 
