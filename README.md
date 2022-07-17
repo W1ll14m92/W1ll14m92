@@ -3,7 +3,7 @@
 
 - 🔭 IT Analyst
 - 🌱 Studying analysis systems development / information security
-- 🤔 C# / Python
+- 🤔 JavaScript / HTML / CSS
 - 📫 devwilliam.mietti@gmail.com
 
 <div align="center">
