@@ -1,10 +1,12 @@
-### Hi I'm William
+## 👋 Hello! Welcome to my Github profile.
+### My name is William Mietti and my nickname is Will!
 
 
 - 🔭 IT Analyst
 - 🌱 Software Engineering Student / information security
-- 🤔 JavaScript / HTML / CSS
+- 🤔  HTML / JavaScript / CSS / C#
 - 📫 devwilliam.mietti@gmail.com
+
 
 <div align="center">
   <a href="https://github.com/W1ll14m92">
@@ -12,11 +14,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1ll14m92&layout=compact&langs_count=7&theme=blue"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  </div>
+  
+  
+  ### Ferramentas e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="70"/>
+          
+
+### Estou Estudando
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70" height="70" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" />
+          
+          
+          
+          
   
    ##
   
