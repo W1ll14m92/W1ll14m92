@@ -4,7 +4,7 @@
 
 - 🔭 IT Analyst
 - 🌱  Computer science student / information security
-- 🤔  HTML / JavaScript / CSS / C#
+- 🤔  HTML / JavaScript / CSS / C# / Python
 - 📫 devwilliam.mietti@gmail.com
 
 
